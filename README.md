@@ -142,6 +142,12 @@
       <a href="https://www.adobe.com/products/premiere.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="xd" width="40" height="40"/>
       </a>
+      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="xd" width="40" height="40"/>
+      </a>
+      <a href="https://www.ableton.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/NewAbletonLogo.png/225px-NewAbletonLogo.png" alt="xd" width="40" height="40"/>
+      </a>
     </td>
   </tr>
 
