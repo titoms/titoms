@@ -77,6 +77,9 @@
       <a href="https://www.php.net" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
       </a>
+      <a href="https://symfony.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="php" width="40" height="40"/>
+      </a>
     </td>
   </tr>
 
@@ -90,6 +93,9 @@
       </a>
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mongodb" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -122,6 +128,10 @@
       <a href="https://mochajs.org" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
       </a>
+      <a href="https://www.selenium.dev/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="mocha" width="40" height="40"/>
+      </a>
+      
     </td>
   </tr>
 
