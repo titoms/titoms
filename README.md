@@ -25,6 +25,7 @@
 - ThreeJS
 
 ### ✈️ Outside of coding I enjoy:
+- Share my knowledge and speak about IT and stuff 🤓
 - Listening and Producting Music 🎧 
 - Playing video games 🎮 
 - Travelling ✈
