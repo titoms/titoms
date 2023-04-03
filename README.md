@@ -12,16 +12,17 @@
 
 - React JS, NodeJS (Express, Nest), and Boostrap 4
 - DevOps Architecture : Docker, Jenkins, Git
+- Also work with PHP (Symfony)
 
 ### :nerd_face: I'm currently learning:
 
-- Aws integration
+- AWS integration
 - Typescript
 
 ### :thinking: I want to learn:
 
-- Elixir
-- Erlang
+- AI Integration
+- ThreeJS
 
 ### ✈️ Outside of coding I enjoy:
 - Listening and Producting Music 🎧 
