@@ -88,14 +88,11 @@
       <i>Database</i>
     </td>
     <td>
-      <a href="https://www.postgresql.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+       <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mongodb" width="40" height="40"/>
       </a>
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mongodb" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -131,7 +128,6 @@
       <a href="https://www.selenium.dev/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="mocha" width="40" height="40"/>
       </a>
-      
     </td>
   </tr>
 
@@ -140,8 +136,11 @@
       <i>Software</i>
     </td>
     <td>
-      <a href="https://www.adobe.com/products/xd.html" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+      <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="xd" width="40" height="40"/>
+      </a>
+      <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="xd" width="40" height="40"/>
       </a>
     </td>
   </tr>
