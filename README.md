@@ -27,7 +27,7 @@
 ### ✈️ Outside of coding I enjoy:
 - Listening and Producting Music 🎧 
 - Playing video games 🎮 
-- Doing Sport ⚽ 🏃‍♂️ 🎾 🏊‍♂️ 🏋️‍♂️
+- Travelling ✈
 
 ## 😃 More about me  (Expand to View) 
 <details>     
