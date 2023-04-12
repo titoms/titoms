@@ -16,12 +16,12 @@
 
 ### :nerd_face: I'm currently learning:
 
-- AWS integration
+- AI integration
 - Typescript
 
 ### :thinking: I want to learn:
 
-- AI Integration
+- AWS Integration
 - ThreeJS
 
 ### ✈️ Outside of coding I enjoy:
