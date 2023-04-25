@@ -17,11 +17,11 @@
 ### :nerd_face: I'm currently learning:
 
 - AI integration
-- Typescript
+- NextJS
 
 ### :thinking: I want to learn:
 
-- AWS Integration
+- Azure/AWS Integration
 - ThreeJS
 
 ### ✈️ Outside of coding I enjoy:
