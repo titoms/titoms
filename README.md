@@ -10,7 +10,7 @@
 
 ### :technologist: I'm currently working on:
 
-- React JS, NodeJS (Express, Nest), and Boostrap 4
+- React JS, NodeJS (Express, Nest), and Tailwind CSS
 - DevOps Architecture : Docker, Jenkins, Git
 - Also work with PHP (Symfony)
 
