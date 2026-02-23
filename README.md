@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Developper;Web+Development+Teacher;&width=500&height=50"></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Developer;AI & Agentic Development;Web Development Teacher;&width=500&height=50"></a>
 </p>
 
 ### :technologist: I'm currently working on:
 
 - React JS, NodeJS (Express, Nest), and Tailwind CSS
-- DevOps Architecture : Docker, Jenkins, Git
-- Agentic Development : Claude Code, Codex, Cursor, Agent Zero, OpenClaw
+- DevOps & CI/CD: Docker, Jenkins, Git, AWS
+- Agentic & AI Development: Claude Code, Codex, Gemini, Cursor, Agent Zero, AntiGravity, OpenClaw
 
 ### :nerd_face: I'm currently learning:
 
@@ -120,6 +120,35 @@
   </tr>
 
   <tr>
+      <td>
+        <i>AI / Agentic Tools</i>
+      </td>
+      <td>
+        <a href="https://www.anthropic.com/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Claude_AI_logo.png" alt="Claude Code" width="40" height="40"/>
+        </a>
+        <a href="https://openai.com/codex" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="Codex" width="40" height="40"/>
+        </a>
+        <a href="https://gemini.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gemini/gemini-original.svg" alt="Gemini" width="40" height="40"/>
+        </a>
+        <a href="https://cursor.so/" target="_blank">
+          <img src="https://cursor.so/favicon.png" alt="Cursor" width="40" height="40"/>
+        </a>
+        <a href="https://www.agentzero.dev/" target="_blank">
+          <img src="https://agentzero.dev/logo.png" alt="Agent Zero" width="40" height="40"/>
+        </a>
+        <a href="https://www.openclaw.ai/" target="_blank">
+          <img src="https://www.openclaw.ai/favicon.ico" alt="OpenClaw" width="40" height="40"/>
+        </a>
+        <a href="#" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="AntiGravity" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+
+  <tr>
     <td>
       <i>Testing</i>
     </td>
@@ -131,7 +160,7 @@
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40"/>
       </a>
       <a href="https://vitest.dev/" target="_blank">
-        <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/>
+        <img src="http://googleusercontent.com/image_collection/image_retrieval/2645566133308870203_0" alt="vitest" width="40" height="40"/>
       </a>
       <a href="https://pptr.dev/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
@@ -148,7 +177,7 @@
     </td>
     <td>
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
+        <img src="http://googleusercontent.com/image_collection/image_retrieval/13131165740703435291_0" alt="photoshop" width="40" height="40"/>
       </a>
       <a href="https://www.adobe.com/products/premiere.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere" width="40" height="40"/>
