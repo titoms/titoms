@@ -119,34 +119,28 @@
     </td>
   </tr>
 
-  <tr>
-      <td>
-        <i>AI / Agentic Tools</i>
-      </td>
-      <td>
-        <a href="https://www.anthropic.com/" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Claude_AI_logo.png" alt="Claude Code" width="40" height="40"/>
-        </a>
-        <a href="https://openai.com/codex" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" alt="Codex" width="40" height="40"/>
-        </a>
-        <a href="https://gemini.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gemini/gemini-original.svg" alt="Gemini" width="40" height="40"/>
-        </a>
-        <a href="https://cursor.so/" target="_blank">
-          <img src="https://cursor.so/favicon.png" alt="Cursor" width="40" height="40"/>
-        </a>
-        <a href="https://www.agentzero.dev/" target="_blank">
-          <img src="https://agentzero.dev/logo.png" alt="Agent Zero" width="40" height="40"/>
-        </a>
-        <a href="https://www.openclaw.ai/" target="_blank">
-          <img src="https://www.openclaw.ai/favicon.ico" alt="OpenClaw" width="40" height="40"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="AntiGravity" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
+<tr>
+  <td>
+    <i>AI / Agentic Tools</i>
+  </td>
+  <td>
+    <a href="https://www.anthropic.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="30"/>
+    </a>
+    <a href="https://openai.com/" target="_blank">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="30"/>
+    </a>
+    <a href="https://gemini.google.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" height="30"/>
+    </a>
+    <a href="https://cursor.so/" target="_blank">
+      <img src="https://img.shields.io/badge/Cursor-512BD4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" height="30"/>
+    </a>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
+    </a>
+  </td>
+</tr>
 
   <tr>
     <td>
@@ -177,8 +171,8 @@
     </td>
     <td>
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="http://googleusercontent.com/image_collection/image_retrieval/13131165740703435291_0" alt="photoshop" width="40" height="40"/>
-      </a>
+          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/>
+        </a>
       <a href="https://www.adobe.com/products/premiere.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere" width="40" height="40"/>
       </a>
