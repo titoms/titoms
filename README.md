@@ -153,9 +153,6 @@
       <a href="https://www.cypress.io/" target="_blank">
         <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40"/>
       </a>
-      <a href="https://vitest.dev/" target="_blank">
-        <img src="http://googleusercontent.com/image_collection/image_retrieval/2645566133308870203_0" alt="vitest" width="40" height="40"/>
-      </a>
       <a href="https://pptr.dev/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
       </a>
@@ -170,9 +167,9 @@
       <i>Software</i>
     </td>
     <td>
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-          <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/>
-        </a>
+     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/>
+</a>
       <a href="https://www.adobe.com/products/premiere.html" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere" width="40" height="40"/>
       </a>
