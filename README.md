@@ -1,32 +1,30 @@
-
 <h1 align="center">
     Hi there 👋, I'm Christophe Crognier
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Developper;Web+Development+Teacher;&width=500&height=50""></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Developper;Web+Development+Teacher;&width=500&height=50"></a>
 </p>
-
 
 ### :technologist: I'm currently working on:
 
 - React JS, NodeJS (Express, Nest), and Tailwind CSS
 - DevOps Architecture : Docker, Jenkins, Git
-- Also work with PHP (Symfony)
+- Agentic Development : Claude Code, Codex, Cursor, Agent Zero, OpenClaw
 
 ### :nerd_face: I'm currently learning:
 
-- AI integration
-- NextJS
+- AI Orchestration
+- BMAD Method for building robust and scalable apps
 
 ### :thinking: I want to learn:
 
-- Azure/AWS Integration
-- ThreeJS
+- Remotion
+- Local LLM autonomaus 24/7 agent.
 
 ### ✈️ Outside of coding I enjoy:
 - Share my knowledge and speak about IT and stuff 🤓
-- Listening and Producting Music 🎧 
+- Listening and Producing Music 🎧 
 - Playing video games 🎮 
 - Travelling ✈
 
@@ -59,10 +57,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </a>
       <a href="https://material-ui.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="react" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
       </a>
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </td>
   </tr>
   
@@ -78,7 +74,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
       </a>
       <a href="https://symfony.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="php" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -88,8 +84,11 @@
       <i>Database</i>
     </td>
     <td>
+       <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+      </a>
        <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mongodb" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
       </a>
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -102,6 +101,9 @@
       <i>Devops</i>
     </td>
     <td>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+      </a>
       <a href="https://aws.amazon.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
       </a>
@@ -122,11 +124,20 @@
       <i>Testing</i>
     </td>
     <td>
-      <a href="https://mochajs.org" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+      <a href="https://jestjs.io" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      </a>
+      <a href="https://www.cypress.io/" target="_blank">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+      </a>
+      <a href="https://vitest.dev/" target="_blank">
+        <img src="https://vitest.dev/logo-shadow.svg" alt="vitest" width="40" height="40"/>
+      </a>
+      <a href="https://pptr.dev/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
       </a>
       <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="mocha" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
       </a>
     </td>
   </tr>
@@ -137,19 +148,19 @@
     </td>
     <td>
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="xd" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
       </a>
       <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="xd" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere" width="40" height="40"/>
       </a>
       <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="xd" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="aftereffects" width="40" height="40"/>
       </a>
       <a href="https://www.ableton.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/NewAbletonLogo.png/225px-NewAbletonLogo.png" alt="xd" width="40" height="40"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/ableton.svg" alt="ableton" width="40" height="40"/>
       </a>
     </td>
   </tr>
 
 </table>      
-</details> 
+</details>
