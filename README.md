@@ -33,17 +33,25 @@
   </a>
 </p>
 
-### :technologist: I'm currently working on:
+## :technologist: I'm currently working on:
 
 - React JS, NodeJS (Express, Nest), and Tailwind CSS
 - DevOps & CI/CD: Docker, Jenkins, Git, AWS
 - Agentic & AI Development: Claude Code, Codex, Gemini, Cursor, Agent Zero, AntiGravity, OpenClaw
 
-### ⚙️ Current Focus
+## ⚙️ Current Focus
 
 - Production AI Agents & Tool Calling
 - LLM orchestration & automation pipelines
 - Scalable backend architectures
+
+## 🚀 Featured AI Projects
+### 🤖 AI Automation Platform
+Agent-based automation system orchestrating workflows, APIs and LLM tools.
+### 🧠 Agentic Development Environment
+Autonomous multi-agent setup for software production and experimentation.
+### ⚡ Dev Productivity Automation
+CI/CD + AI-assisted development pipelines reducing delivery time.
 
 ## 💼 Working With Me
 
@@ -53,14 +61,6 @@
 ✔ Clear technical communication  
 
 📅 Available for freelance & consulting missions
-
-## 🚀 Featured AI Projects
-### 🤖 AI Automation Platform
-Agent-based automation system orchestrating workflows, APIs and LLM tools.
-### 🧠 Agentic Development Environment
-Autonomous multi-agent setup for software production and experimentation.
-### ⚡ Dev Productivity Automation
-CI/CD + AI-assisted development pipelines reducing delivery time.
 
 ## ✈️ Outside of coding I enjoy:
 - Share my knowledge and speak about IT and stuff 🤓
