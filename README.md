@@ -45,12 +45,11 @@
 - LLM orchestration & automation pipelines
 - Scalable backend architectures
 
+## 🚀 Featured AI Projects
 ### 🤖 AI Automation Platform
 Agent-based automation system orchestrating workflows, APIs and LLM tools.
-
 ### 🧠 Agentic Development Environment
 Autonomous multi-agent setup for software production and experimentation.
-
 ### ⚡ Dev Productivity Automation
 CI/CD + AI-assisted development pipelines reducing delivery time.
 
@@ -72,8 +71,7 @@ CI/CD + AI-assisted development pipelines reducing delivery time.
 ## 😃 More about me  (Expand to View) 
 <details>     
       
-##  🛠️ Languages and Tools:
-#### Programming Languages:
+#### Languages & Tools :
  
 <table>
   
