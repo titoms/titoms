@@ -3,7 +3,18 @@
 </h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Developer;AI & Agentic Development;Web Development Teacher;&width=500&height=50"></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Engineer;AI & Agentic Systems Builder;Web Development Teacher;&width=500&height=50"></a>
+  I design and ship AI-powered applications, automation systems<br/>
+  and production-ready agent workflows.
+</p>
+
+<p align="center">
+  🚀 Building scalable AI products | Automation | DevOps | Agents
+</p>
+
+<p align="center">
+  <a href="https://fullstackchris.dev"><b>Portfolio</b></a> •
+  <a href="https://calendly.com/christophe-crognier/30min"><b>Book a Call</b></a>
 </p>
 
 ## ✉️ Connect with me
@@ -28,15 +39,20 @@
 - DevOps & CI/CD: Docker, Jenkins, Git, AWS
 - Agentic & AI Development: Claude Code, Codex, Gemini, Cursor, Agent Zero, AntiGravity, OpenClaw
 
-### :nerd_face: I'm currently learning:
+### ⚙️ Current Focus
 
-- AI Orchestration
-- BMAD Method for building robust and scalable apps
+- Production AI Agents & Tool Calling
+- LLM orchestration & automation pipelines
+- Scalable backend architectures
 
-### :thinking: I want to learn:
+### 🤖 AI Automation Platform
+Agent-based automation system orchestrating workflows, APIs and LLM tools.
 
-- Remotion
-- Local LLM autonomaus 24/7 agent.
+### 🧠 Agentic Development Environment
+Autonomous multi-agent setup for software production and experimentation.
+
+### ⚡ Dev Productivity Automation
+CI/CD + AI-assisted development pipelines reducing delivery time.
 
 ### ✈️ Outside of coding I enjoy:
 - Share my knowledge and speak about IT and stuff 🤓
@@ -44,11 +60,19 @@
 - Playing video games 🎮 
 - Travelling ✈
 
+## 💼 Working With Me
+
+✔ Rapid MVP & AI product delivery  
+✔ Production-ready architectures  
+✔ Automation-first mindset  
+✔ Clear technical communication  
+
+📅 Available for freelance & consulting missions
+
 ## 😃 More about me  (Expand to View) 
 <details>     
       
 ##  🛠️ Languages and Tools:
-
 #### Programming Languages:
  
 <table>
