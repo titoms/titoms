@@ -6,6 +6,12 @@
   <a href="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Developer;AI & Agentic Development;Web Development Teacher;&width=500&height=50"></a>
 </p>
 
+### ✉️ My Socials :
+
+- <a href="https://www.linkedin.com/in/christophe-crognier/">LinkedIn</a>
+- <a href="https://x.com/fullstackchris_">X</a>
+- <a href="https://www.youtube.com/@FullStackChris">Youtube</a>
+
 ### :technologist: I'm currently working on:
 
 - React JS, NodeJS (Express, Nest), and Tailwind CSS
