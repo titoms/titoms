@@ -6,11 +6,21 @@
   <a href="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+Developer;AI & Agentic Development;Web Development Teacher;&width=500&height=50"></a>
 </p>
 
-### ✉️ My Socials :
+## ✉️ Connect with me
 
-- <a href="https://www.linkedin.com/in/christophe-crognier/">LinkedIn</a>
-- <a href="https://x.com/fullstackchris_">X</a>
-- <a href="https://www.youtube.com/@FullStackChris">Youtube</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/christophe-crognier/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Christophe_Crognier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/fullstackchris_" target="_blank">
+    <img src="https://img.shields.io/badge/X-@fullstackchris__-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://www.youtube.com/@FullStackChris" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FullStackChris-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ### :technologist: I'm currently working on:
 
