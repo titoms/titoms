@@ -46,11 +46,11 @@
 - Scalable backend architectures
 
 ## 🚀 Featured AI Projects
-### 🤖 AI Automation Platform
+#### 🤖 AI Automation Platform
 Agent-based automation system orchestrating workflows, APIs and LLM tools.
-### 🧠 Agentic Development Environment
+#### 🧠 Agentic Development Environment
 Autonomous multi-agent setup for software production and experimentation.
-### ⚡ Dev Productivity Automation
+#### ⚡ Dev Productivity Automation
 CI/CD + AI-assisted development pipelines reducing delivery time.
 
 ## 💼 Working With Me
