@@ -74,151 +74,66 @@ CI/CD + AI-assisted development pipelines reducing delivery time.
 #### Languages & Tools :
  
 <table>
-  
-  <tr>
-    <th>Skill</th>
-    <th>Technologies</th>
-  </tr>
-  
-  <tr>
-    <td>
-      <i>Frontent Development</i>
-    </td>
-    <td>
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <a href="https://material-ui.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <i>Backend Development</i>
-    </td>
-    <td>
-      <a href="https://nodejs.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
-      <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-      </a>
-      <a href="https://symfony.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="symfony" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <i>Database</i>
-    </td>
-    <td>
-       <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      </a>
-       <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="40" height="40"/>
-      </a>
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <i>Devops</i>
-    </td>
-    <td>
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      </a>
-      <a href="https://aws.amazon.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-      </a>
-      <a href="https://www.jenkins.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-      </a>
-      <a href="https://www.linux.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
 
 <tr>
-  <td>
-    <i>AI / Agentic Tools</i>
-  </td>
-  <td>
-    <a href="https://www.anthropic.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="30"/>
-    </a>
-    <a href="https://openai.com/" target="_blank">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="30"/>
-    </a>
-    <a href="https://gemini.google.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" height="30"/>
-    </a>
-    <a href="https://cursor.so/" target="_blank">
-      <img src="https://img.shields.io/badge/Cursor-512BD4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Cursor" height="30"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="30"/>
-    </a>
-  </td>
+<th>Skill</th>
+<th>Technologies</th>
 </tr>
 
-  <tr>
-    <td>
-      <i>Testing</i>
-    </td>
-    <td>
-      <a href="https://jestjs.io" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-      </a>
-      <a href="https://www.cypress.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-      </a>
-      <a href="https://pptr.dev/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
-      </a>
-      <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td><i>Frontend</i></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
+</td>
+</tr>
 
-  <tr>
-    <td>
-      <i>Software</i>
-    </td>
-    <td>
-     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg" alt="photoshop" width="40" height="40"/>
-</a>
-      <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/2048px-Adobe_Premiere_Pro_Logo.svg.png" alt="premiere" width="40" height="40"/>
-      </a>
-      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="aftereffects" width="40" height="40"/>
-      </a>
-      <a href="https://www.ableton.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/ableton.svg" alt="ableton" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td><i>Backend</i></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</td>
+</tr>
 
-</table>      
+<tr>
+<td><i>Database</i></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=4DB33D"/>
+</td>
+</tr>
+
+<tr>
+<td><i>DevOps</i></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</td>
+</tr>
+
+<tr>
+<td><i>AI / Agentic</i></td>
+<td>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121D33?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td><i>Testing</i></td>
+<td>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+</td>
+</tr>
+
+</table>
 </details>
